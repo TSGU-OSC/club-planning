@@ -1,3 +1,9 @@
+## Java
+
+## Web
+
+## 算法
+
 ## OpenConverter 开发人员培养计划
 
 ### 任务
@@ -15,3 +21,5 @@
 - make等工具（MakeFile）
 - FFmpeg（命令行、转封装、转码）
 - Qt（控件、布局、信号与槽）
+
+## AI

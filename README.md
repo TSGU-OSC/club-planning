@@ -23,7 +23,7 @@
 2. 前端（社团相关网站运营）
 3. 算法等计算机竞赛
 4. 音视频领域培养（OpenConverter）
-5. AI相关开发（昇腾
+5. AI相关开发（昇腾）
 
 ### 5. [招生计划](https://gitee.com/TSGU-OSC/club-planning/blob/master/doc/enrollmentPlan.md)
 
