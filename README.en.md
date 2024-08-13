@@ -1,36 +1,33 @@
-# 社团规划
+# Club Planning
 
-#### Description
-{**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
+## To Do Items
 
-#### Software Architecture
-Software architecture description
+### 1. [New Student Guide](https://gitee.com/TSGU-OSC/club-planning/blob/master/doc/freshmenGuide.md)
 
-#### Installation
+Reference [Beijing University of Information Science and Technology Freshman Guide](https://github.com/840119580/myblog-source)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+Need to cover information such as school related websites, precautions for new students, club introductions, etc.
 
-#### Instructions
+### 2. [Integration of Club Resources](https://gitee.com/TSGU-OSC/club-planning/blob/master/doc/integrationOfClubResources.md)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1. Introduction and link integration of public community resources such as large language models, text and image model platforms, and storage servers.
+2. Computing power, development kit, hardware equipment, technical support, laboratory permission application channels.
 
-#### Contribution
+### 3. [Work Allocation](https://gitee.com/TSGU-OSC/club-planning/blob/master/doc/workAllocation.md)
 
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+1. Business refinement of each department
 
+### 4. [Personnel Training](https://gitee.com/TSGU-OSC/club-planning/blob/master/doc/personelDevelopment.md)
 
-#### Gitee Feature
+1. Java project team
+2. Front end (operation of club related websites)
+3. Algorithm and other computer competitions
+4. Training in the field of audio and video (OpenConverter)
+5. AI related development (Ascend)
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+### 5. [Enrollment Plan](https://gitee.com/TSGU-OSC/club-planning/blob/master/doc/enrollmentPlan.md)
+
+1. Budget
+2. Preparation of promotional materials and materials
+3. Time node confirmation
+4. Reservation for the welcome party and subsequent activities
