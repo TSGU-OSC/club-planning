@@ -4,6 +4,36 @@
 
 ## 算法
 
+### 基础知识
+- 时间复杂度
+- 枚举
+- 模拟
+- 递归 & 分治
+- 贪心
+- 排序
+- 双指针
+- 离散化
+- 高精度
+- 前缀和 & 差分
+- 二分，三分
+- 倍增
+- 构造
+- 数据结构
+- 搜索
+- 动态规划
+- 数论
+- 图论
+
+### 刷题OJ网站
+ [洛古](http://https://www.luogu.com.cn/)
+ [牛客](https://ac.nowcoder.com/)
+ [QOJ](http://qoj.ac/)
+ [ATC](http://atcoder.jp/)
+ [CF](http:codeforces.com/)
+ [UOJ](https://uoj.ac/)
+
+[如何为 ACM-ICPC 做准备？- geeksforgeeks](https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/)
+
 ## OpenConverter 开发人员培养计划
 
 ### 任务
