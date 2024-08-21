@@ -40,6 +40,8 @@
 
 ## OpenConverter 开发人员培养计划
 
+这是培养大纲，若要详细了解，请见[详情](./OpenConverterBasicLearningRoute.md)
+
 ### 任务
 - 字符版五子棋
 - Qt版五子棋
@@ -66,3 +68,7 @@
 - 学习docker、linux相关命令，了解视觉中目标检测、样本标注、模型训练的工作流
 - 使用GPU服务器完成模型的训练与推理
 - 感兴趣的可以学习华为mindspore框架，CANN、Ascend C算子开发
+
+## 互联网+
+
+[详情](./internet+.md)

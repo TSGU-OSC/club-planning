@@ -2,22 +2,22 @@
 
 ## 待办事项
 
-### 1. [新生指南](./doc/freshmenGuide.md)
+### 1. [新生指南](./doc/freshmenGuide/freshmenGuide.md)
 
 参考[北京信息科技大学新生指南](https://github.com/840119580/myblog-source)
 
 需要涵盖 学校相关网站、新生注意事项、社团介绍等信息
 
-### 2. [社团资源整合](./doc/integrationOfClubResources.md)
+### 2. [社团资源整合](./doc/integrationOfClubResources/integrationOfClubResources.md)
 
 1. 大语言模型、文生图模型平台、存储服务器等公共社团资源的介绍与链接整合
 2. 算力、开发套件、硬件设备、技术支持、实验室权限申请渠道
 
-### 3. [工作分配](./doc/workAllocation.md)
+### 3. [工作分配](./doc/workAllction/workAllocation.md)
 
 1. 各部门业务细化
 
-### 4. [人员培养](.doc/personelDevelopment.md)
+### 4. [人员培养](./doc/personalDevelopment/personalDevelopment.md)
 
 1. Java项目组
 2. 前端（社团相关网站运营）
